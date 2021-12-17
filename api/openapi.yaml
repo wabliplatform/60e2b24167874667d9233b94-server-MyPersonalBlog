@@ -134,6 +134,7 @@ components:
       example:
         date: date
         posttext: posttext
+        image: image
         _id: _id
         title: title
       properties:
@@ -145,8 +146,11 @@ components:
           type: string
         posttext:
           type: string
+        image:
+          type: string
       required:
       - date
+      - image
       - posttext
       - title
       type: object

@@ -8,7 +8,9 @@ date:String ,
 
 title:String , 
 
-posttext:String 
+posttext:String , 
+
+image:String 
 
 
 })
