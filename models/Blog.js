@@ -8,11 +8,7 @@ date:String ,
 
 title:String , 
 
-posttext:String , 
-
-image:String , 
-
-viewpost:String 
+image:String 
 
 
 })
