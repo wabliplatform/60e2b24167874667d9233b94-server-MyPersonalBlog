@@ -135,6 +135,7 @@ components:
         date: date
         posttext: posttext
         image: image
+        viewpost: viewpost
         _id: _id
         title: title
       properties:
@@ -148,9 +149,12 @@ components:
           type: string
         image:
           type: string
+        viewpost:
+          type: string
       required:
       - date
       - image
       - posttext
       - title
+      - viewpost
       type: object

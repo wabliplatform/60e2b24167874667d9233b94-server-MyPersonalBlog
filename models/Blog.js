@@ -10,7 +10,9 @@ title:String ,
 
 posttext:String , 
 
-image:String 
+image:String , 
+
+viewpost:String 
 
 
 })
